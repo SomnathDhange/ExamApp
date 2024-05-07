@@ -1,24 +1,24 @@
-# Mantis Free React Material UI Dashboard Template [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Download%20Mantis%20React%20-%20The%20professional%20Material%20designed%20React%20Admin%20Dashboard%20Template%20&url=https://mantisdashboard.io&via=codedthemes&hashtags=reactjs,webdev,developers,javascript)
+# ExamApp Free React Material UI Dashboard Template [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Download%20ExamApp%20React%20-%20The%20professional%20Material%20designed%20React%20Admin%20Dashboard%20Template%20&url=https://ExamAppdashboard.io&via=codedthemes&hashtags=reactjs,webdev,developers,javascript)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Price](https://img.shields.io/badge/price-FREE-0098f7.svg)](https://github.com/codedthemes/mantis-free-react-admin-template/blob/main/LICENSE)
-[![GitHub package version](https://img.shields.io/github/package-json/v/codedthemes/mantis-free-react-admin-template)](https://github.com/codedthemes/mantis-free-react-admin-template/)
+[![Price](https://img.shields.io/badge/price-FREE-0098f7.svg)](https://github.com/codedthemes/ExamApp-free-react-admin-template/blob/main/LICENSE)
+[![GitHub package version](https://img.shields.io/github/package-json/v/codedthemes/ExamApp-free-react-admin-template)](https://github.com/codedthemes/ExamApp-free-react-admin-template/)
 
-Mantis is a free and open source React redux dashboard template made using the Material UI React component library with aim of flexibility and better customizability.
+ExamApp is a free and open source React redux dashboard template made using the Material UI React component library with aim of flexibility and better customizability.
 
 ### Name Derived From Nature
 
-Mantis Logo is inspired from the insect name - 'Mantises' as they have triangular heads with flexible Necks. Also, the name is derived from two popular UI frameworks, Material UI and Ant Design (M-Ant-is).
+ExamApp Logo is inspired from the insect name - 'ExamAppes' as they have triangular heads with flexible Necks. Also, the name is derived from two popular UI frameworks, Material UI and Ant Design (M-Ant-is).
 
-Mantis has Ant Design principal on top of the MAterial UI React component library.
+ExamApp has Ant Design principal on top of the MAterial UI React component library.
 
 :star: :star: :star: Support us by giving star (Top right of this page) if you like the theme :star: :star: :star:
 
-![mantis-free-react-dashboard-template.jpg](https://mantisdashboard.io/adv-banner-images/og-social-v1.1.0.png)
+![ExamApp-free-react-dashboard-template.jpg](https://ExamAppdashboard.io/adv-banner-images/og-social-v1.1.0.png)
 
-The [Pro version](https://mantisdashboard.io) of Mantis react template includes features such as TypeScript, apps, authentication methods (i.e. JWT, Auth0, Firebase), advance components, form plugins, layouts, widgets, and more.
+The [Pro version](https://ExamAppdashboard.io) of ExamApp react template includes features such as TypeScript, apps, authentication methods (i.e. JWT, Auth0, Firebase), advance components, form plugins, layouts, widgets, and more.
 
-| [Mantis Free](https://mantisdashboard.io/free) | [Mantis Pro](https://mantisdashboard.io)                                         |
+| [ExamApp Free](https://ExamAppdashboard.io/free) | [ExamApp Pro](https://ExamAppdashboard.io)                                         |
 | ---------------------------------------------- | :------------------------------------------------------------------------------- |
 | **7** Demo pages                               | **85+** Demo pages                                                               |
 | -                                              | ✓ Multi-language                                                                 |
@@ -28,12 +28,12 @@ The [Pro version](https://mantisdashboard.io) of Mantis react template includes 
 | -                                              | ✓ Multiple color options                                                         |
 | -                                              | ✓ RTL                                                                            |
 | -                                              | ✓ JWT, Firebase, Auth0, AWS authentication                                       |
-| -                                              | ✓ [More components](https://mantisdashboard.io/components-overview/autocomplete) |
+| -                                              | ✓ [More components](https://ExamAppdashboard.io/components-overview/autocomplete) |
 | ✓ MIT License                                  | ✓ [Pro License](https://mui.com/store/license/)                                  |
 
-## Why Mantis?
+## Why ExamApp?
 
-Mantis offers everything needed to build an advanced dashboard application. In the initial release, we included following high-end features,
+ExamApp offers everything needed to build an advanced dashboard application. In the initial release, we included following high-end features,
 
 - Support React18.
 - Professional user interface.
@@ -43,25 +43,25 @@ Mantis offers everything needed to build an advanced dashboard application. In t
 - Flexible & high-Performance code
 - Simple documentation
 
-## Free Mantis React version
+## Free ExamApp React version
 
 #### Preview
 
-- [Demo](https://mantisdashboard.io/free)
+- [Demo](https://ExamAppdashboard.io/free)
 
 #### Download
 
-- [Download from GitHub](https://github.com/codedthemes/mantis-free-react-admin-template)
+- [Download from GitHub](https://github.com/codedthemes/ExamApp-free-react-admin-template)
 
-## Mantis Pro version
+## ExamApp Pro version
 
 #### Preview
 
-- [Demo](https://mantisdashboard.io)
+- [Demo](https://ExamAppdashboard.io)
 
 #### Purchase
 
-- [Buy now](https://mui.com/store/items/mantis-react-admin-dashboard-template/)
+- [Buy now](https://mui.com/store/items/ExamApp-react-admin-dashboard-template/)
 
 ## Table of contents
 
@@ -80,7 +80,7 @@ Mantis offers everything needed to build an advanced dashboard application. In t
 1. Clone from Github
 
 ```
-git clone https://github.com/codedthemes/mantis-free-react-admin-template.git
+git clone https://github.com/codedthemes/ExamApp-free-react-admin-template.git
 ```
 
 2. Install packages
@@ -97,7 +97,7 @@ yarn start
 
 ## Documentation
 
-[Mantis documentation](https://codedthemes.gitbook.io/mantis/) helps you out in all aspects from Installation to deployment.
+[ExamApp documentation](https://codedthemes.gitbook.io/ExamApp/) helps you out in all aspects from Installation to deployment.
 
 ## Technology stack
 
@@ -112,11 +112,11 @@ yarn start
 
 ## Author
 
-Mantis is managed by team [CodedThemes](https://codedthemes.com).
+ExamApp is managed by team [CodedThemes](https://codedthemes.com).
 
 ## Issues
 
-Please generate a [GitHub issue](https://github.com/codedthemes/mantis-free-react-admin-template/issues) if you found a bug in any version. We are try our best to resolve the issue.
+Please generate a [GitHub issue](https://github.com/codedthemes/ExamApp-free-react-admin-template/issues) if you found a bug in any version. We are try our best to resolve the issue.
 
 ## License
 
@@ -134,8 +134,8 @@ Please generate a [GitHub issue](https://github.com/codedthemes/mantis-free-reac
 
 ## Follow us
 
-- Website [https://mantisdashboard.io](https://mantisdashboard.io)
-- Blog [https://blog.mantisdashboard.io](https://blog.mantisdashboard.io)
+- Website [https://ExamAppdashboard.io](https://ExamAppdashboard.io)
+- Blog [https://blog.ExamAppdashboard.io](https://blog.ExamAppdashboard.io)
 - CodedThemes [https://codedthemes.com](https://codedthemes.com)
 - Dribbble [https://dribbble.com/codedthemes](https://dribbble.com/codedthemes)
 - Facebook [https://www.facebook.com/codedthemes](https://www.facebook.com/codedthemes)
