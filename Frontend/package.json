@@ -1,12 +1,11 @@
 {
-  "name": "mantis-free-react-admin-template",
+  "name": "ExamApp-free-react-admin-template",
   "version": "1.3.0",
   "private": true,
-  "homepage": "https://mantisdashboard.io/free",
+  "homepage": "https://ExamAppdashboard.io/free",
   "author": {
-    "name": "CodedThemes",
-    "email": "codedthemes@gmail.com",
-    "url": "https://codedthemes.com/"
+    "name": "ExamApp",
+    "email": "somnathdhange73@gmail.com"
   },
   "scripts": {
     "start": "vite",
